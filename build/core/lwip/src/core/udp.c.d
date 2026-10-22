@@ -1,0 +1,35 @@
+/home/seven/codebuddy-work/altair-8800-pico/build/core/lwip/src/core/udp.c.o: \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0/cores/rp2040/lwip/src/core/udp.c \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0/cores/rp2040/lwip/src/core/../../../../../pico-sdk/lib/lwip/src/core/udp.c \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/opt.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/debug.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/arch.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/src/rp2_common/pico_lwip/include/arch/cc.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/udp.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/pbuf.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/err.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/netif.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/ip_addr.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/def.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/ip4_addr.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/ip6_addr.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/def.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/stats.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/mem.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/memp.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/priv/memp_std.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/priv/memp_priv.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/priv/mem_priv.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/ip.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/ip4.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/prot/ip4.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/ip6.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/prot/ip.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/prot/udp.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/inet_chksum.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/icmp.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/prot/icmp.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/icmp6.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/prot/icmp6.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/snmp.h \
+ /home/seven/.arduino15/packages/rp2040/hardware/rp2040/6.3.0//pico-sdk/lib/lwip/src/include/lwip/dhcp.h
